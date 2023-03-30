@@ -5,12 +5,12 @@
 
 ## Custom web interface
 
-![moonkey web wallet UI](./moonkey.png)
+![moonkey web wallet UI](moonkey.png)
 
 Moonkey has it's own implementation of wallet frontend.
 Because, Safe web doesn't support ERC-4337 contract addresses.
 
-![erc4337 on safe web](./safe.png)
+![erc4337 on safe web](safe.png)
 
 ## Guide
 
