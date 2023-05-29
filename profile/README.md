@@ -38,13 +38,13 @@ Visit [on-ramp source code](https://github.com/moonkey-global/on_ramp) for ZK ci
 ## Gallery
 
 Home page
-![Home screen](../moonkey.png)
+![Home screen](moonkey.png)
 
 Assets page
-![Assets screen](../moonkey-assets_.png)
+![Assets screen](moonkey-assets_.png)
 
 Mod page
-![Mods screen](../moonkey-mods_.png)
+![Mods screen](moonkey-mods_.png)
 
 Moons page (Dapp lists)
-![Moons screen](../moonkey-moons_.png)
+![Moons screen](moonkey-moons_.png)
